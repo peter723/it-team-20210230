@@ -13,7 +13,7 @@ function openpage(){
     var x = document.getElementById("search").value;
 
     if (x === "RULEFISS Wireless Earbud"){
-        window.open("file:///C:/Users/badry.anas/Documents/site/badry3.html")
+        window.open("badry3.html")
     }
 
     if (x === "RULEFISS Wireless Earbud"){
@@ -53,7 +53,7 @@ function openpage(){
     }
 
     if (x === "RULEFISS Wireless Earbud"){
-        window.open("file:///C:/Users/badry.anas/Documents/site/badry3.html")
+        window.open("badry3.html")
     }
 }
 
