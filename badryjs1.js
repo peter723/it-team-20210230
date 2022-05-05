@@ -21,7 +21,7 @@ function openpage(){
     }
 
     if (x === "AMAZFIT GTR3 .. 3050"){
-        window.open("smart_watch%20(1).html")
+        window.open("smart_watch.html")
     }
 
     if (x === "DELL G15"){
@@ -45,11 +45,11 @@ function openpage(){
     }
 
     if (x === "SONY WH-1000XM3"){
-        window.open("")
+        window.open("project1.html")
     }
 
     if (x === "IPHONE 13 PRO MAX"){
-        window.open("index.html")
+        window.open("iphone.html")
     }
 
     if (x === "REDRAGON M607"){
