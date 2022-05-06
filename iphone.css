@@ -200,6 +200,18 @@ section{
     color:#eee;
     padding:1rem 0;
 }
+.price{
+  font-size: 4.5rem;
+  color:#fff;}
+.old-price{
+  font-size: 3rem;
+  color:#fff;
+  text-decoration: line-through;
+}
+
+
+
+
 .colors{
   text-align: center;
 }
@@ -270,8 +282,6 @@ transition: 1s ease;
     padding-right: .5rem;
     color:#637CBB;
 }
-
-
 
 
 
