@@ -1,7 +1,7 @@
 let a1 = document.querySelector('.a1');
 function phones(phone){
     a1.src = phone;
-}  
+}
 
 
 const themeButton = document.getElementById('theme-button')
@@ -27,6 +27,5 @@ themeButton.addEventListener('click', () => {
 
 })
 
-const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'dark' : 'light' 
-const getCurrentIcon = () => themeButton.classList.contains(IconTheme) ? 'bx bx-toggle-left' : 'bx bx-toggle-right' 
-
+const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'dark' : 'light'
+const getCurrentIcon = () => themeButton.classList.contains(IconTheme) ? 'bx bx-toggle-left' : 'bx bx-toggle-right'
